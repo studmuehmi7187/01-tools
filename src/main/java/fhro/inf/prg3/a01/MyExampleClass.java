@@ -8,5 +8,6 @@ public class MyExampleClass {
 	public int multiply(int a, int b) {
 		// TODO return correct multiplication result
 		return a*b;
+		//this comment was created on branch firstBranch
 	}
 }
